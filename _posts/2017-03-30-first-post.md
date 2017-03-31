@@ -28,8 +28,3 @@ No more ads. More control for me. No longer do I get sick when I
 accidentally see options to _pay_ for Wordpress themes thinking about
 all the innocent people who have willingly done this (now that I know
 about Jekyll).
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
