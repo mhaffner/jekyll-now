@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-permalink: /presentations/
+title: Slides
+permalink: /slides/
 ---
 
 This  is a  list of  recent  conference presentations.  All have  been
