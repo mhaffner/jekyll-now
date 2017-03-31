@@ -6,7 +6,7 @@ permalink: /presentations/
 
 This  is a  list of  recent  conference presentations.  All have  been
 created with [reveal.js](https://github.com/hakimel/reveal.js). Feel
-free to contact me if you have any questions!
+free to contact me if you have any questions! 
 
 # 2017
 
