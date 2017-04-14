@@ -7,7 +7,7 @@ permalink: /about/
 I'm currently a PhD Candidate/Research Assistant in the Department of Geography
 at Oklahoma State University. My research interests include GIScience, Urban
 Geography, the GeoWeb, and Big Geospatial Data. Check out my
-CV [here](../images/cv.pdf).
+CV [here](/images/cv.pdf).
 
 ### Contact me
 
